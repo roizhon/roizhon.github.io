@@ -4,6 +4,6 @@
 ~~~~
 npm create-react-app $PRJECT
 cd $PROJECT
-mkdir -p src/components/containers; mkdir -p src/cmn; mkdir -p src/config; touch public/rzenv_.js
+mkdir -p src/components/containers src/cmn src/config src/views; touch public/rzenv_.js
 ~~~~
 
