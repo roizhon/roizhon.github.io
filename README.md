@@ -1,5 +1,3 @@
-# ROIZHON Blog
-
 ## project initialization
 
 * react app
